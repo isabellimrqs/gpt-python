@@ -1,6 +1,6 @@
 import openai
 
-chave_api = "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"
+chave_api = "sua_chave_api"
 openai.api_key = chave_api
 
 def enviar_mensagem(mensagem, lista_mensagens=[]):
